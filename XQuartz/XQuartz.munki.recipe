@@ -21,7 +21,7 @@
             </array>
             <key>catalogs</key>
             <array>
-                <string>testing</string>
+                <string>production</string>
             </array>
             <key>description</key>
             <string>X11 tools for Mac OS X.</string>
