@@ -16,7 +16,7 @@ this is in a predictable URL.
         <string>DaVinciResolveLite</string>
     </dict>
     <key>MinimumVersion</key>
-    <string>0.2.9</string>
+    <string>0.2.7</string>
     <key>Process</key>
     <array>
         <dict>
